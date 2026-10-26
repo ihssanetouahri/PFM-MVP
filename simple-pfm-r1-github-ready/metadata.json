@@ -1,0 +1,6 @@
+{
+  "name": "Simple — Mon Espace Financier (PFM)",
+  "description": "Prototype interactif haute fidélité de gestion des finances personnelles (PFM), coaching financier, défis et éducation financière Learn & Earn pour l'application bancaire Simple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
